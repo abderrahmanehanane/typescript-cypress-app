@@ -1,0 +1,17 @@
+{
+  "name": "typescript-cypress-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "mochawesome": "^7.0.1",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^6.0.1",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "cypress": "^9.0.0",
+    "ts-node": "^10.4.0"
+  }
+}

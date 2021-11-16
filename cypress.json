@@ -1,0 +1,10 @@
+{
+  "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": true,
+    "json": false
+  },
+  "chromeWebSecurity": false,
+  "projectId": "grw43g"
+}
