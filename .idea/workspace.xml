@@ -15,7 +15,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/fixtures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/support" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -27,6 +27,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahanane\projects\typescript-cypress-app\cypress\support" />
       <recent name="C:\Users\ahanane\projects\typescript-cypress-app\cypress\fixtures" />
       <recent name="C:\Users\ahanane\projects\typescript-cypress-app\cypress\integration" />
     </key>
@@ -39,11 +40,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637097471823</updated>
-      <workItem from="1637097472996" duration="2377000" />
+      <workItem from="1637097472996" duration="3018000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cypress/support/index.js" />
+      </list>
+    </option>
   </component>
 </project>
